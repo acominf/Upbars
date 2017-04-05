@@ -10,7 +10,7 @@ La descripción del juego/aplicación es ...
 1. Clase 1
 * caracteristica1
 * caracteristica2
-* caracteristica3.0
+* caracteristica3
 
 2. Clase 2
 * caracteristica1
