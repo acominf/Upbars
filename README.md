@@ -21,6 +21,10 @@ El autor(es) del proyecto son:
 - 2016-2017/II
 
 ### Universidad Autónoma de San Luis Potosí Facultad de Ingenieria, 2017
+
+# Objetivo del juego/aplicación:
+El objetivo de esta aplicacion es poner a prueba lo aprendido en el curso de programación oriantada a objetos JAVA con la intencion de desarrolar un entorno grafico(juego) donde se implemente la mayor parte de lo aprendido en clase.
+
 # Descripción:
 Chabelardo es un juego en el cual controlas a chabelardo un pequeño jovencito, el cual tiene que eliminar unas máquinas del mal la cuales está aterrorizando el luchar donde vive y por tanto tendrá que luchas contra enemigos del alto nivel donde siempre lo acompañara una esfera color azul con la cual podrá eliminar a los enemigo simples y el portara unas bombas pero son especiales puesto que solo las puede utilizar contra los jefes de cada nivel, al destruir a el jefe de cada nivel chabelardo podrá continuar su camino pero cada vez se podrá más y más difícil puesto que habrá una esfera de color negra que rebotara por todos lados y si es tocado por esta o por los enemigo este morirá, cabe mencionar que cada que mate un villano este rencarnara en una esfera de color negra, pero chabelardo podrá encontrar vidas solamente 2 por nivel trata de coleccionarla te servirán. 
 
@@ -78,18 +82,7 @@ Matar a los jefes de cada nivel.
 ![](https://raw.githubusercontent.com/JonathanEduardo/Proyecto-de-chavelardo/master/Proyect_final_objetos/A_Proyecto_Objetos_chavelardO/images/Corazon.png)
 
 
-# # REQUERIMIENTOS
 
-
-![En construcción](https://upload.wikimedia.org/wikipedia/commons/e/ef/En_construccion.jpg)
-
-### Objetivo del juego/aplicación
-El objetivo del juego/aplicación es ...
-
-### Descripción del juego/aplicación
-La descripción del juego/aplicación es ...
-
-### Clases principales y sus características
 
 
 ### Diagrama de clases
